@@ -1,0 +1,43 @@
+h1 {
+    color: rosybrown;
+
+}
+.title {color: aquamarine;font-family:}
+
+
+
+.title {
+color: gold;
+    
+    
+}
+.font-style {
+    
+    width: 240px;
+height: 80px
+    
+font-size: 90px;
+font-weight: bolder;
+}
+
+h2 {
+    color: gold;
+    border: 10px solid gold ;border-radius: 10px
+        padding-top: 20px;
+
+       padding-bottom: 10px;
+    
+    padding-right: 50px;
+
+    padding-left: 200px
+        
+
+    margin: 10px;
+    margin-top: 100px;
+margin-bottom: 90px;
+margin-right: 190px;
+margin-left: 25px
+
+  
+
+}
